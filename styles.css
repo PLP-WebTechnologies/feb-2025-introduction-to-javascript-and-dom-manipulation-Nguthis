@@ -1,0 +1,23 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    display: block;
+}
+.title{
+    text-align: center;
+    color: brown;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+#color-change{
+    width: 400px;
+    height: 400px;
+    display: block;
+    background-color: red;
+}
